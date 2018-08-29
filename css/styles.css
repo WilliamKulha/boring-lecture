@@ -1,0 +1,25 @@
+h2.intro {
+  width: 50%;
+  font-size: 20px;
+  font-style:italic;
+  font-family:cursive;
+  text-align: center;
+  color: blue;
+}
+
+p.intro {
+  width: 50%;
+  font-size: 15px;
+  font-style:italic;
+  font-family:cursive;
+  text-align:center;
+  color: red;
+}
+
+img.intro{
+  display:block;
+  width:50%;
+  height: 300px;
+  width: 500px;
+  
+}
